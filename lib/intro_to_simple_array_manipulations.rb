@@ -31,5 +31,9 @@ def using_insert(array, element)
 end
 
 def using_uniiq(array)
-  array.uni
+  array.uniq
+end
+
+def using_flatten(array)
+  array.flatten
 end
